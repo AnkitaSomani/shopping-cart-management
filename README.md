@@ -23,9 +23,11 @@ A simple **Shopping Cart Management System** implemented in **C++**, using file 
 Stores the available store inventory.
 
 Example:
+<br>
 1,Pen,50,10.5
 <br>
 2,Notebook,30,45.0
+<br>
 3,Eraser,100,5.0
 
 Format:
