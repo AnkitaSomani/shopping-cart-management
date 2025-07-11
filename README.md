@@ -24,6 +24,7 @@ Stores the available store inventory.
 
 Example:
 1,Pen,50,10.5
+<br>
 2,Notebook,30,45.0
 3,Eraser,100,5.0
 
