@@ -31,7 +31,7 @@ Example:
 3,Eraser,100,5.0
 
 Format:
-SrNo,ItemName,QuantityAvailable,Price
+SrNo, ItemName, QuantityAvailable, Price
 
 ---
 
@@ -39,8 +39,11 @@ SrNo,ItemName,QuantityAvailable,Price
 Stores the available discount coupons.
 
 Example:
+<br>
 100,10
+<br>
 200,25
+<br>
 500,50
 
 Format:
